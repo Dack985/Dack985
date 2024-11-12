@@ -1,3 +1,6 @@
+![Dack985's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 - 👋 Hi, I’m @Dack985
 - 👀 I’m interested in cybersecurity and infrastructure
 - 🌱 I’m currently learning linux defense and hardening techniques and programs
