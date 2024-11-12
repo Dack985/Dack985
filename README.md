@@ -1,4 +1,4 @@
-![Dack985's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Dack985's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dack985&show_icons=true&theme=radical)
 
 
 - 👋 Hi, I’m @Dack985
